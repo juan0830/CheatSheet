@@ -1,0 +1,97 @@
+* {
+    /* border: 2px dotted red; */
+}
+
+body {
+    background-color: ghostwhite;
+    color: midnightblue;
+}
+
+h1,h2,h3,h4 {
+    color: #6A1B9A;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 20px;
+    display: inline-block;
+}
+
+p {
+    font-size: 18px;
+    display: inline-block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div {
+    margin: 20px 10px;
+}
+
+/* .sections {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    text-align: center;
+    margin: 10px auto;
+} */
+
+table {
+    display: table;
+    border: 2px solid #F28500;
+    border-spacing: 8px;
+    border-collapse: separate;
+    background-color: #FAF3DD;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+}
+
+caption, thead, tbody, tr, th, td {
+    border: 2px solid #F28500;
+}
+
+caption, th {
+    background-color: #E6E6FA;
+}
+
+td {
+    background-color: #E0FFFF;
+}
+
+caption {
+    font-weight: bold;
+    border-bottom: none;
+    font-size: 20px;
+}
+
+thead{
+    /* border-spacing: 0px; */
+}
+
+tbody {
+    /* border-spacing: 0px; */
+}
+
+tr {
+    /* border-spacing: 0px; */
+}
+
+th {
+    /* border-spacing: 0px; */
+}
+
+td {
+    /* border: 2px solid #F28500; */
+}
